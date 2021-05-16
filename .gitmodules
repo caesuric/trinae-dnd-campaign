@@ -1,0 +1,6 @@
+[submodule "dnd-tokens"]
+	path = dnd-tokens
+	url = https://github.com/caesuric/dnd-tokens.git
+[submodule "trinae-dnd-campaign-private"]
+	path = trinae-dnd-campaign-private
+	url = https://github.com/caesuric/trinae-dnd-campaign-private.git
